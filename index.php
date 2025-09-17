@@ -23,5 +23,9 @@
     <br>
     <a href="aula05_03.php">Aula05_03</a>
     <br>
+    <a href="aula05_04.php">Aula05_04</a>
+    <br>
+    <a href="aula06_01.php">Aula06_01</a>
+    <br>
 </body>
 </html>

@@ -19,6 +19,7 @@
     echo "Av2: $av2 <br>";
     echo "Média: $media <br>";
     ?>
-    
+    <br>
+    <a href="index.php">Voltar ao Index</a>
 </body>
 </html>

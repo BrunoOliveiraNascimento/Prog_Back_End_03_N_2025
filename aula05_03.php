@@ -14,6 +14,7 @@
         Av2: <input type="number" name="av2" step="0.01"><br>
         <input type="submit" value="Enviar!">
     </form>
-    
+    <br>
+    <a href="index.php">Voltar ao Index</a>
 </body>
 </html>

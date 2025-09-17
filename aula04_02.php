@@ -24,5 +24,7 @@
     */
     
     ?>
+    <br>
+    <a href="index.php">Voltar ao Index</a>
 </body>
 </html>
