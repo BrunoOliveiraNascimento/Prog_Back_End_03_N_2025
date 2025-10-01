@@ -27,5 +27,13 @@
     <br>
     <a href="aula06_01.php">Aula06_01</a>
     <br>
+    <a href="aula07_01.php">Aula07_01</a>
+    <br>
+    <a href="aula07_02.php">Aula07_02</a>
+    <br>
+    <a href="aula08_01.php">Aula08_01</a>
+    <br>
+    <a href="aula08_02.php">Aula08_02</a>
+    <br>
 </body>
 </html>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,6 +18,7 @@ echo "<br>Divisão:".($a / $b);
 echo "<br>Módulo:".($a % $b);
 echo "<br>Exponenciação:".($a ** $b);
 ?>    
+<hr>
 <h2>Operador Atribuição</h2>
 <?php
 $a=10;
@@ -33,6 +34,7 @@ $d+=$a; //$d=$d+$a = 6+12 = 18
 echo "<br>c = ".$c; // c = 5
 echo "<br>d = ".$d; // d = 18
 ?>
+<hr>
 <h2>Operador String</h2>
 <?php
 $a = "Maria ";
@@ -43,13 +45,14 @@ echo $a . $b; // Maria Leopoldina
 $b .= $a; // $b = $b . $a = "Leopoldina " . "Maria " = "Leopoldina Maria "
 echo "<br>$b";  // Leopoldina Maria
 ?>
+<hr>
 <h2>Operador Incremento/Decremento</h2>
 <?php
 $x = 100;
 echo "x = ".++$x; // x = 101
 echo "<br>x final = ".$x; // x final = 101
 ?>
-<br>
+<hr>
 <?php
 $x = 100;
 echo "x = ".$x++; // x = 100
@@ -74,6 +77,7 @@ $i--; // i = 12
 $i-=3; // i = 11
 echo "<br>i = $i"; // i = 11
 ?>
+<hr>
 <br>
 <h2>Operador Comparação/Relacional</h2>
 <?php
@@ -100,6 +104,8 @@ echo "Maior: ".($c>$b)."<br>"; //true
 echo "Maior ou igual: ".($c>=$b)."<br>"; //true
 ?>
 <br>
+<hr>
+<br><br>
 <a href="index.php">Voltar ao Index</a>
 </body>
 </html>
